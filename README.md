@@ -1,11 +1,4 @@
-# Airflow-User-ETL-Pipeline
-Since your project follows a clean **ETL (Extract, Transform, Load)** pattern, a professional README should focus on the workflow automation and the tools used.
-
-Here is a high-quality **README.md** file tailored for your Airflow project:
-
----
-
-# User Processing Pipeline with Apache Airflow 🚀
+# Airflow-User-ETL-Pipeline 🚀
 
 ## 📌 Project Description
 
